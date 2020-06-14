@@ -20,3 +20,8 @@ _____________________________________________________________________
 3. **Local repository**: Contains the commits of the project
 4. **Project directory**: 1,2 and 3 together in the local computer. (basically the location of the project in our computer)
 5. **Remote repository**: The location of the project directory in the cloud.
+
+### Basic Commands
+
+# Creating a new repository
+
