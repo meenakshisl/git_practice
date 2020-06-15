@@ -7,12 +7,12 @@ _____________________________________________________________________
 
 
 
-### Basic Terms
+## Basic Terms
 
 * **Commit**
     : A version of the code
     
-### Git Locations
+## Git Locations
 
 
 1. **Working Tree**: Directory with our working resources under the control of git
@@ -21,7 +21,11 @@ _____________________________________________________________________
 4. **Project directory**: 1,2 and 3 together in the local computer. (basically the location of the project in our computer)
 5. **Remote repository**: The location of the project directory in the cloud.
 
-### Basic Commands
-
-# Creating a new repository
-
+## Basic Commands
+----------------------------
+1. Initialising a new repository
+   ```bash
+   git init
+   ```
+2. Commiting to a local repository
+    -   
